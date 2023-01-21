@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o Ricardo Rodrigues
 
-<!--
-**ricda-si/ricda-si** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ricda-si GitHub stats](https://github-readme-stats.vercel.app/api?username=ricda-si&show_icons=true&theme=react)
 
-Here are some ideas to get you started:
+## Social
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-rodrigues-b00879250/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ricda-si/python-projects)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ricda-si/c-projects)
+
+## IDE
+[![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+
+## OS
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
